@@ -1,0 +1,2538 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Landing Page",
+      "nameSelectPreset": "landing",
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "Site-04-07_2142",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 56,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/lance-anderson-qdaaasrzhdk-unsplash-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Pioneers of Industry",
+                "contentAlign": "center",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Champions of Finance",
+                "contentAlign": "center",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sean-pollock-phyq704ffda-unsplash-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Making Things Happen",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-0"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "HIGH SPEED HIGH SPIRIT",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "INVESTMENTS",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "PIPELINE",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "GLOBAL PARTNERS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-2"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sean-pollock-phyq704ffda-unsplash-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
+          },
+          "title": "About Us",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Founded by Narsingh Bahadur Shrestha in the 1950s, NB Group is a Nepalese enterprise, headquartered in Kathmandu, comprising over 40 independent operating companies in banking and finance, hydro power, hospitality, construction and trading sectors. The group partners with companies spanning 10 countries across 4 continents.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-9"
+        }
+      ]
+    },
+    "investments.html": {
+      "settings": {
+        "title": "Investments",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-4"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "INVESTMENTS",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-h",
+          "_styles": {
+            "H2": {
+              "text-align": "right",
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Promoter Investments",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NB Bank",
+          "text": "<p>Nepal Bangladesh Bank Ltd. is a leading ‘A’ class commercial bank licensed by Nepal Rastra Bank. Nepal Bangladesh Bank was registered with Office of Company Registrar (50-050/051, Dated January 14, 1994) as a public company limited by shares. Nepal Bangladesh Bank started its banking operation from 6th June, 1994. Nepal Bangladesh Bank was established as a joint venture bank with IFIC Bank Ltd., Bangladesh. Shares of the bank are listed in Nepal Stock Exchange Ltd. since 1995.</p><p><span style=\"font-size: 1.25rem;\">NB Bank is a joint venture bank between NB Group (Nepal) Pvt. Ltd., its associate companies and IFIC bank of Bangladesh. IFIC Bank is one of the leaders in serving the ever increasing demands for domestic and international banking.</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-f",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><span style=\"color: inherit; font-size: 2.3rem;\">NCC Bank</span><br></div>",
+          "text": "<p>Nepal Credit &amp; Commerce Bank Ltd. (NCC Bank) formally registered as Nepal - Bank of Ceylon Ltd. (NBOC), commenced its operation on October 14, 1996 as a Joint Venture with Bank of Ceylon, Sri Lanka and NB Group (Nepal) Pvt. Ltd and its associate companies. It was then the first private sector Bank with the largest authorized capital of NRS. 1,000 million. The Head Office of the Bank is located at Siddhartha Nagar, Rupandehi, the birthplace of LORD BUDDHA, while its Corporate Office is located at Bagbazar, Kathmandu. The name of the Bank was changed to Nepal Credit &amp; Commerce Bank Ltd., (NCC Bank) on 10th September, 2002, due to transfer of shares and management of the Bank from Bank of Ceylon, to Nepalese Promoters.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nccbank.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NB Insurance",
+          "text": "<p>As a joint venture between NB Group (Nepal) Pvt. Ltd, its associate companies and NB Bank, NB Insurance was established in 2001 and commenced its operation from February 1st 2001 (Magh 19, 2057). NB Insurance Company is established as General Insurance Company promoted by a team of reputed industrialist and Business Houses involved in various fields like Banking, Trading, and Hydropower etc. For over 15 years, NB Insurance Company has helped individual and institutional customers to grow and protect their wealth.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbinsurance.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-k"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "National Hydro Power Company",
+          "text": "<p>NHPC received the license to transmit the 7.5 MW electricity from this project’s location to Panchkhal substation, from where the sale of electricity to NEA will take place. The company is also promoting more Hydro Power Projects in the future for which feasibilities are being carried out.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-l"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><br></div><div>Harisiddhi Brick and Tiles Factory</div>",
+          "text": "<p>In one of the early industrial Privatization sprees of the Nepalese Government, NB Group successfully won the tender for the Harisiddhi Bricks and Tiles Factory. With approximately 50 acres of prime land, the project site is open to various other investments in a bid to move from traditional brick and tiles factory to other health industries.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-m"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><span style=\"color: inherit; font-size: 2.3rem;\">International Recreation Center</span><br></div>",
+          "text": "<p>In the early 1980s, NB Group purchased a neo-classical palatial residence of the Rana Prince Surendra Shumsher, son of erstwhile Prime Minister Juddha SJB Rana. The building now houses a health club and apartment complex and is wholly owned by NB Group. With approximately 2 acres in a prime residential area, the club houses restaurants, gym, pool, tennis and a spa among others. Current plans of upgrade are in process.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NB International",
+          "text": "<p>NB International was established with the objective of serving the nation by means of international trading and representation/ liaison works. In response to the ever increasing demand for chemical fertilizer in the country, NB International primarily brought its self to the market by importing sugar and fertilizers, mainly being Urea.</p><p><span style=\"font-size: 1.25rem;\">Over the past few years, NB International has successfully represented reputed international firms in Nepal for Global tenders and turn- key contracts in the fields of power, construction, Irrigation and Telecommunication. Such firms are the Fuji film from Japan, Kelvinator from the USA, Singapore Petroleum Company (SPC) from Singapore, thus being their core distributor in Nepal.</span><br></p><p><span style=\"font-size: 1.25rem;\">Other projects that the company has been successful with are the importing of Beaver machine; moreover, the company has also exported cut flowers to Japan. Future plans include diversification into the assembling of a computer software/ hardware known as the Thin-Client. Furthermore, the company will also engage itself into importing electric vehicles, hence revolutionizing the country’s scarcity of petroleum.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Associate Investments",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-p"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Nepal Cancer Hospital",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-q"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Stemp Apparels",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Past Investments",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-t"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NB Finance",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-u"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NSLMB",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-v"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><span style=\"color: inherit; font-size: 2.3rem;\">Himalayan Brick Factory</span><br></div>",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-w"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Balaji International",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-x"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><span style=\"color: inherit; font-size: 2.3rem;\">Kaji Enterprises</span><br></div>",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"http://nbbl.com.np/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-y"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-6"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            "small": {
+              "font-size": "30px"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "About Us<br>",
+          "meta": "Overview",
+          "text": "<p>Founded by Narsingh Bahadur Shrestha in the 1950s, NB Group is a Nepalese enterprise, headquartered in Kathmandu, comprising over 40 independent holding and operating companies in banking and finance, construction, trading among other sectors. The group partners with companies spanning 10 countries across six continents.</p><p>NB Group (Nepal) Pvt. Ltd is the principal investment holding company and promoter of NB Group companies. NB Group and its other investment holding companies have successfully promoted and established 7 public limited companies under Nepal Stock Exchange (NEPSE) including NB Bank (NBB), NB Insurance (NBIL), NCC Bank (NCCB) and National Hydro Power Company (NHPC), the combined market capitalization of which stand at approximately NPR 600 Arabs (USD 6 Billion).</p><p>NB Group is currently in the process of establishing various other projects in the hospitality, health and trade sector. Going forward, NB Group seeks to  differentiate themselves through innovation, entrepreneurship, trustworthiness and values-driven business operations, while balancing the interests of diverse stakeholders including shareholders, employees and civil society.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "History",
+          "caption": "<p>NB Group began in the foothills of the Himalayas in the 1950s, though the name did not exist back then. A small village farmer boy in Barhabise, Sindupalchowk by the name of Narsingh Bahadur began trade with Tibet. Salt, sheep and wool was imported from Tibet whereas wheat, rice, sugar and spices were exported. This trade enterprise was essentially the first rudimentary seeds of what would later grow to become NB Group.</p><p><span style=\"font-size: 1.25rem;\">In the 1960s and 70s, trade was progressively expanded to other nations like Japan and Hong Kong and included various other products such as herbs and handicraft. During late 70s and early 80s, the first seeds of trade with Bangladesh began with the export of railway sleepers and red lentil seeds. Trade with Bangladesh would later culminate with the establishment of Nepal Bangladesh Bank.</span><br></p><p><span style=\"font-size: 1.25rem;\">During the 80s, NB Group was exposed to the national arena while supplying fertilizers to the Government of Nepal through global tenders. It was during this epoch of time that NB Group stepped into the representation and liaison business by representing various foreign firms. The 80s also brought about NB Group into the industrial sector where the group successfully won the bid for privatization of Nepal's largest brick factory, under the first phase of the governmental privatization program. The group then went on to acquire another brick factory, a cold storage facility and saw mills among others.</span></p><p><span style=\"font-size: 1.25rem;\">The 90s saw the group's major shift in business sector as they moved from traditional industry to the financial and tertiary sector. In a joint venture with IFIC Bank of Bangladesh, NB Group promoted and established Nepal Bangladesh Bank which was successively followed by a finance company NB Finance and Leasing. A few years later, NB Group once again in a joint venture with Bank of Ceylon, promoted and established another commercial bank Nepal Bank of Ceylon (Later changed to Nepal Credit and Commerce Bank) and a merchant bank Nepal Sri Lanka Merchant Bank in a joint venture with MBSL of Sri Lanka.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">The late 90s and early 2000s saw the establishment of the first fully private sector Hydro power plant of Nepal. NB Group pioneered this project in a joint venture with Lyse Kraft AS of Norway. The Group is now in the process of establishing new projects in the hospitality and the health sector. With investments in well diversified industries and having generated employment for over 3000 jobs, NB Group today stands as one of the foremost business houses of Nepal.&nbsp;</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Leadership",
+          "caption": "It gives me an immense pleasure to see the growth of NB Group and to see it reaching the newer heights by playing an important role in the country’s economy by contributing significantly to the nation’s exchequer and the employment generation, diversifying its field from agriculture to manufacturing, financial sector, hydro power, hospitality &amp; recreation, health, education, representing, consultancy and trading activities. NB Group feels proud to have generated employment for more than 2000 Nepalese citizens. NB Group has been successful in attracting foreign investments in the country and as a result has Joint Ventures/Partnership relationships with investors from India, Bangladesh, Sri Lanka, China, Japan, and Norway.<div>&nbsp;</div><div>We need to catch the pace of altering demographics and the changing business trends as well as the national policies and international factors. We need to set ourselves to be prepared to move ahead with the today’s world economy, globalization and face the competitions and the challenges of 21 and managing 7 listed companies under one umbrella winning the confidence of more that 100,000 shareholders . We are therefore committed and dedicated to work for and in the interest of our valued shareholders and the entire stakeholders and to meet their expectations by giving them maximum in terms of return and value addition to their investments.</div><div><br></div><div><span style=\"font-size: 1.25rem;\">NB Group today, is set for reaching to a newer heights by further diversifying its activities in the area of alternative energy, IT, media and other eco-socio-friendly industries.</span></div><div><span style=\"font-size: 1.25rem;\"><br></span></div><div><span style=\"font-size: 1.25rem;\">On behalf of the Board of Directors and the entire NB Group family would like to thank all the valued shareholders, other stake holders, the Govt. authorities, press, media and all the well wishers for their continuous support and the confidence shown to us.</span><br></div><div><span style=\"font-size: 1.25rem;\"><br></span></div><div><span style=\"font-size: 1.25rem;\">JB Shrestha</span><span style=\"font-size: 1.25rem;\">​</span><br></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Chairman's Message",
+          "caption": "<p>It gives me immense pleasure to see the growth of NB Group and to see it reaching the newer heights by playing an important role in the country’s economy by contributing significantly to the nation’s exchequer and the employment generation, diversifying its field from agriculture to manufacturing, financial sector, hydro power, hospitality &amp; recreation, health, education, representing, consultancy and trading activities. NB Group feels proud to have significantly contributed to generate employment for more than 2000 Nepalese citizens. NB Group has been successful in attracting foreign investments in the country and as a result has Joint Ventures/Partnership relationships with investors from India, Bangladesh, Sri Lanka, China, Japan, and Norway.</p><p><span style=\"font-size: 1.25rem;\">We need to catch the pace of altering demographics and the changing business trends as well as the national policies and international factors. We need to set ourselves to be prepared to move ahead with the today’s world economy, globalization and face the competitions and the challenges of the 21st century and managing 7 listed companies under one umbrella winning the confidence of more that 100,000 shareholders. We are therefore committed and dedicated to work for and in the interest of our valued shareholders and the entire stakeholders and to meet their expectations by giving them maximum in terms of return and value addition to their investments.</span></p><p><span style=\"font-size: 1.25rem;\">NB Group today, is set for reaching to a newer heights by further diversifying its activities in the area of alternative energy, IT, media and other eco-socio-friendly industries.</span></p><p><span style=\"font-size: 1.25rem;\">On behalf of the Board of Directors and the entire NB Group family would like to thank all the valued shareholders, other stake holders, the Govt. authorities, press, media and all the well wishers for their continuous support and the confidence shown to us.</span><br></p><p><span style=\"font-size: 1.25rem;\">JB Shrestha</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Vision and Mission",
+          "caption": "<p>It gives me an immense pleasure to see the growth of NB Group and to see it reaching the newer heights by playing an important role in the country’s economy by contributing significantly to the nation’s exchequer and the employment generation, diversifying its field from agriculture to manufacturing, financial sector, hydro power, hospitality &amp; recreation, health, education, representing, consultancy and trading activities. NB Group feels proud to have generated employment for more than 2000 Nepalese citizens. NB Group has been successful in attracting foreign investments in the country and as a result has Joint Ventures/Partnership relationships with investors from India, Bangladesh, Sri Lanka, China, Japan, and Norway.</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">We need to catch the pace of altering demographics and the changing business trends as well as the national policies and international factors. We need to set ourselves to be prepared to move ahead with the today’s world economy, globalization and face the competitions and the challenges of 21 and managing 7 listed companies under one umbrella winning the confidence of more that 100,000 shareholders . We are therefore committed and dedicated to work for and in the interest of our valued shareholders and the entire stakeholders and to meet their expectations by giving them maximum in terms of return and value addition to their investments.</span></p><p><span style=\"font-size: 1.25rem;\">NB Group today, is set for reaching to a newer heights by further diversifying its activities in the area of alternative energy, IT, media and other eco-socio-friendly industries.</span><br></p><p><span style=\"font-size: 1.25rem;\">On behalf of the Board of Directors and the entire NB Group family would like to thank all the valued shareholders, other stake holders, the Govt. authorities, press, media and all the well wishers for their continuous support and the confidence shown to us.</span><br></p><p><span style=\"font-size: 1.25rem;\">JB Shrestha</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Corporate Social Responsbilities",
+          "caption": "<p>It gives me an immense pleasure to see the growth of NB Group and to see it reaching the newer heights by playing an important role in the country’s economy by contributing significantly to the nation’s exchequer and the employment generation, diversifying its field from agriculture to manufacturing, financial sector, hydro power, hospitality &amp; recreation, health, education, representing, consultancy and trading activities. NB Group feels proud to have generated employment for more than 2000 Nepalese citizens. NB Group has been successful in attracting foreign investments in the country and as a result has Joint Ventures/Partnership relationships with investors from India, Bangladesh, Sri Lanka, China, Japan, and Norway.</p><p><span style=\"font-size: 1.25rem;\">We need to catch the pace of altering demographics and the changing business trends as well as the national policies and international factors. We need to set ourselves to be prepared to move ahead with the today’s world economy, globalization and face the competitions and the challenges of 21 and managing 7 listed companies under one umbrella winning the confidence of more that 100,000 shareholders . We are therefore committed and dedicated to work for and in the interest of our valued shareholders and the entire stakeholders and to meet their expectations by giving them maximum in terms of return and value addition to their investments.</span></p><p><span style=\"font-size: 1.25rem;\">NB Group today, is set for reaching to a newer heights by further diversifying its activities in the area of alternative energy, IT, media and other eco-socio-friendly industries.</span><br></p><p><span style=\"font-size: 1.25rem;\">On behalf of the Board of Directors and the entire NB Group family would like to thank all the valued shareholders, other stake holders, the Govt. authorities, press, media and all the well wishers for their continuous support and the confidence shown to us.</span><br></p><p><span style=\"font-size: 1.25rem;\">JB Shrestha</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-7"
+        }
+      ]
+    },
+    "pipeline.html": {
+      "settings": {
+        "title": "Pipeline",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PIPELINE",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-11",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "25",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div><br></div><div><br></div><div>4 Star Hotel&nbsp;</div>",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-12"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "25",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Hospital",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-13"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "25",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joel-filipe-ju9vazdgmzs-unsplash-1400x1336.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Hydro Power",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-14"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-10"
+        }
+      ]
+    },
+    "partners.html": {
+      "settings": {
+        "title": "Partners",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-16"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Global Partners",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "msg-box1-18"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Ping Xiang, Zong Ding",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "IFIC Bank",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Stucky",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-17"
+        }
+      ]
+    },
+    "Gallery.html": {
+      "settings": {
+        "title": "Gallery",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gallery",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "msg-box1-1e"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-4-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-5-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-1c"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "Contact",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Investments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Promoter Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-p\">Associate Investments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"investments.html#msg-box1-t\">Past Investments</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pipeline</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Global Partners</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NB GROUP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Us",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "msg-box1-1i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "form": {
+            "action": "keshav.dulal@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "NB Group Shanti marg, kamaladi, kathmandu",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>NB Group (Nepal) Pvt. Ltd.<br>Shanti Marg, Kamaladi - 31<br>Kathmandu, Nepal<br><br>\n<strong>Contacts</strong><br>\nEmail: info@nbgroup.com.np<br>Tel: +977 1 4229652 / 4229962<br>Fax: +977 1 4225410<br>",
+          "text2": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-1h"
+        }
+      ]
+    }
+  }
+}
